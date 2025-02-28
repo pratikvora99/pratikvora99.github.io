@@ -1,114 +1,100 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pratik Vora",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pratikvora2019@gmail.com",
+    "phone": "+91 7984328947",
+    "url": "https://pratikvora99.github.io",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Gurugram",
+      "countryCode": "India",
+      "region": "Haryana"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "pratik-vora",
+        "url": "https://www.linkedin.com/in/pratik-vora/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Indian Institute of Technology, Delhi",
+      "position": "Teaching Assistant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-01-01",
+      "endDate": "2024-05-31",
+      "summary": "I worked as teaching assistant for several courses at IIT Delhi while pursuing my masters. The courses were Data Structures, Data Mining and AI for Earth Observation. The work included preparing questionnaire, assigments, grading and guiding the students taking these courses. This helped me understand the courses from the point of view of a mentor."
+    },
+    {
+      "name": "Informatica Business Solutions",
+      "position": "Associate Softwware Engineer",
+      "url": "https://example.com",
+      "startDate": "2020-06-01",
+      "endDate": "2021-09-07",
+      "summary": "I worked as UI software developer for the Enterprise Data Catalog (EDC) UI team (R&D department) at Informatica Business Solutions, Bengaluru. My work was aimed at security enhancements of the website apart from addressing regular customer requirements. One of the projects that I was part of was Catalog Proxy Layer Removal which reduced loading time by a factor of 70% without any regression issues. I was also one of the few members of our team who got to work on both Catalog and Admin modules."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "organization": "Hiramani Old Age Homes",
+      "location": "Ahmedabad , India",
       "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2018-01-01",
+      "endDate": "2018-03-01",
+      "summary": "Conducted seminar for the elderly at the old age home regarding current technologies available useful for them. Also, held seminar for health and nutrition for elderly to help them understand the importance of dietary regiments in day to day life. "
+    },
+    {
+      "organization": "Nirma Volunteaching Movement",
+      "location": "Ahmedabad , India",
+      "position": "Educational Volunteer",
+      "startDate": "2017-08-01",
+      "endDate": "2017-10-31",
+      "summary": "Participated in sessions for teaching children in village (namely, Miroli near Ahmedabad) to acquaint them with basic knowledge of Maths, Languages and Moral Sciences. Also, helped in spreading awareness among the adults in village regarding the importance of knowledge."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "Indian Institute of Technology, Delhi",
+      "location": "New Delhi, India",
+      "url": "https://scai.iitd.ac.in",
+      "area": "Artificial Intelligence and Data Science",
+      "studyType": "Masters (M.Tech.)",
+      "startDate": "2022-08-01",
+      "endDate": "2024-06-30",
+      "score": "8.46",
+      "courses": ["Machine Learning", "Computer Vision", "Natural Language Processing", "Data Mining", "Graph Machine Learning", "Reinforcement Learning"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Institute of Technology, Nirma University",
+      "location": "Ahmedabad , India",
+      "url": "https://cse.nirmauni.ac.in",
+      "area": "Computer Science",
+      "studyType": "Bachelors (B.Tech.)",
+      "startDate": "2016-08-01",
+      "endDate": "2020-05-31",
+      "score": "8.52",
+      "courses": ["Data Structures and Algorithms", "Operating Systems", "Computer Networks", "Database Management", "Deep Learning"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Codechef Certified Foundation Level Exam",
+      "date": "2019-05-01",
+      "issuer": "Codechef",
+      "url": "https://www.codechef.com/certificates/public/9cf7b10",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Deep Learning Specialisation",
+      "date": "2019-03-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/K3UAS4YNQ5UU",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,55 +122,55 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision",
+        "Natural Language Processing",
+        "Graph Machine Learning",
+        "Reinforcement Learning",
+        "Data Mining"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Frontend Development (UI)",
+        "Backend Development",
+        "Database Management"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Hindi",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Hobbies",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": ["Reading fiction", "Classical Music"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Chess", "Table Tennis"]
     }
   ],
   "projects": [
