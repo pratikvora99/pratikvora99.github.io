@@ -24,8 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hey there! I’m a Machine Intelligence and Data Science graduate from IIT Delhi, where I spent my time exploring the intersection of algorithms and real-world data. My work spans Computer Vision, NLP, Graph ML, and Data Mining—trying to make machines see, read, and reason a little better. Before that, I earned my BTech in Computer Science from Nirma University and worked as a Software Developer at Informatica Business Solutions in Bengaluru for 1.5 years.
+👋 Hey there! I’m a Machine Intelligence and Data Science graduate from IIT Delhi, where I explored the intersection of algorithms, intelligent systems, and real-world data. My work spans Computer Vision, NLP, Graph Machine Learning, and Data Mining—building systems that help machines see, read, and reason a little better.
 
-When I'm not deciphering patterns in data, I'm lost in fiction or chasing the perfect film that nobody talks about. I have a deep appreciation for classical music—Debussy, Vivaldi, Satie, and my forever favourite, Chopin—hoping one day to figure out why machines can crunch numbers but can't feel a nocturne.
+Professionally, I've worked across software engineering, data science, and machine learning. I started my career as a Software Developer at Informatica Business Solutions, Bengaluru, where I spent 1.5 years building software solutions. I then moved into data science at Air India, working on large-scale machine learning applications, including a Fraud Prevention Engine and Churn Prediction models.
+
+Currently, I'm an ML Engineer at Branch International Financial Services, where I build end-to-end machine learning solutions for credit risk modelling, developing data-driven systems to improve lending decisions and risk assessment
+
+Before IIT Delhi, I earned my BTech in Computer Science from Nirma University.
+
+When I'm not deciphering patterns in data, I'm probably lost in fiction or chasing the perfect film that nobody talks about. I have a deep appreciation for classical music—Debussy, Vivaldi, Satie, and my forever favourite, Chopin—hoping one day to figure out why machines can crunch numbers but can't feel a nocturne.
 
 Welcome to my little corner of the internet! 🚀
