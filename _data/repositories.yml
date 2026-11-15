@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pratikvora99
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - pratikvora99/Brain-Image-Augmentation-using-GAN-in-pytorch
+  - pratikvora99/col761-data-mining
+  - pratikvora99/model-free-rl-with-random-features
+  # - pratikvora99/col774-machine-learning
+  # - pratikvora99/col671-artificial-intelligence 
+  - pratikvora99/FileType-Identification
+  - pratikvora99/FileType-Identification-FrontEnd
+  - pratikvora99/weshare
